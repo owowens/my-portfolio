@@ -1,6 +1,6 @@
 # my-portfolio
 các dự án đã làm
-#App android
+# App
 - Công nghệ sử dụng: Flutter,Firebase, Supabase  
 - App todo: https://github.com/owowens/PTUD_baocaoth2.git  
 - Ghi chú smart note: https://github.com/owowens/PTUD_TH3.git  
